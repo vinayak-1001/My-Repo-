@@ -2,9 +2,8 @@
 this is my coding practice .
 hai i vinh dhjj  
 
-# my naem 
+# my name 
 vinyak
 
 # studies
 BE - engineering
-git
